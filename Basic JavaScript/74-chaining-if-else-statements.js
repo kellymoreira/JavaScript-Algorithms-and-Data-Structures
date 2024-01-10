@@ -2,7 +2,6 @@ function testSize(num) {
   // Only change code below this line
 if (num < 5) {
   return "Tiny";
-
 } else if (num < 10) {
   return "Small";
 } else if (num < 15) {
