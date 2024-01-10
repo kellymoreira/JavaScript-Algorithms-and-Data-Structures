@@ -14,7 +14,6 @@ if (num < 5) {
 } else {
     return "Change Me";
 }
-
   // Only change code above this line
 }
 
